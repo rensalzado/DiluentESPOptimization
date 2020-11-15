@@ -1,4 +1,4 @@
-classdef TubingObj < handle
+classdef cTubingObj < handle
 %TubingObj. Tubing Object
 % TubingObj represents a tubing inside a single well model. It allows
 % calculation of pressure/temperature profile along the tubing. 
