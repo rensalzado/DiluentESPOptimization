@@ -1,5 +1,5 @@
 # DiluentESPOptimization
-TEP4905 – NTNU Master Thesis, Energy and Process Engineering Department
+TEP4905 – NTNU, Energy and Process Engineering Department, Master Thesis
 
 Specialization: Industrial Process Technology
  
