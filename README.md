@@ -1,5 +1,6 @@
 # DiluentESPOptimization
 TEP4905 – NTNU Master Thesis, Energy and Process Engineering Department
+
 Specialization: Industrial Process Technology
  
  The objective of the master thesis was to develop a numerical model from a single-phase, vertical oil well
