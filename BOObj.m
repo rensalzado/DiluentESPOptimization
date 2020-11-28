@@ -1,4 +1,4 @@
-classdef cBOObj < handle
+classdef BOObj < handle
 %BOObj. Black Oil Class
 % BOObj represents a black oil model. In each property, there is a
 % reference of the correlations used for the calculation. 

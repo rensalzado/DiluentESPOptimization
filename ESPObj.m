@@ -1,4 +1,4 @@
-classdef cESPObj < handle
+classdef ESPObj < handle
 %ESPObj. Electro Submersible Pump Object
 % ESPObj represents a single stage centrifugal electrosubmersible pump 
 % (ESP) to lift production fluid.

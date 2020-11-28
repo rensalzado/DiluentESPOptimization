@@ -1,4 +1,4 @@
-classdef cInjectionObj < handle
+classdef InjectionObj < handle
 %InjectionObj. Injection Object
 % InjectionObj represents a injection point into the well structure. It
 % includes viscosity blending calculations according Cragoe and ASTM D7152.

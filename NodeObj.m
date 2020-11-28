@@ -1,4 +1,4 @@
-classdef cNodeObj < handle
+classdef NodeObj < handle
 %NodeObj. Node Class
 % NodeObj represents a node connecting different branches or nodes. In the 
 % node, the production of different branches and nodes commingle. 

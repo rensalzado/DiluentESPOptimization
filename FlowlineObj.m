@@ -1,4 +1,4 @@
-classdef cFlowlineObj < handle
+classdef FlowlineObj < handle
 %FlowlineObj. Flowline Class
 % FlowlineObj represents a flowline connecting different elements in the 
 % surface for a network. It allows calculation of pressure/temperature 

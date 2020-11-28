@@ -1,4 +1,4 @@
-classdef cVertCompletionObj < handle
+classdef VertCompletionObj < handle
 %VertCompletionObj. Vertical Completion Object
 % VertCompletionObj includes the information from the inflow performance
 % relationships (IPR) in a vertical completion. 

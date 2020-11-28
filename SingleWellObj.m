@@ -1,4 +1,4 @@
-classdef cSingleWellObj < handle
+classdef SingleWellObj < handle
 %SingleWellObj. Single Well Class
 % SingleWellObj represents a single well model. This object may include
 % completions, tubings, esps and injection points.
