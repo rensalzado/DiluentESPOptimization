@@ -14,6 +14,8 @@ BLSW.mrmu = [vmu_oil(2, :); vmu_dil(3, :)];
 BLSW.mrT = [Tsm_oil(2, :); Tsm_dil(3, :)];
 BLSW.drho = GE_oil(2)*1e3;
 BLSW.orho = GE_dil(3)*1e3;
+BLSW.BlendingMethod = 'astm_d7152';
+
 BLSW.BlendingReference
 
 %% Black oil model
